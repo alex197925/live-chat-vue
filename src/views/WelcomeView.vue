@@ -2,7 +2,7 @@
 
 <template>
   <div class="welcome container">
-    <h1>Welcome Page</h1>
+    <p>Welcome</p>
   </div>
 </template>
 
